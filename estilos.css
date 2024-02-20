@@ -1,0 +1,44 @@
+/* Estilos adicionales para la página */
+
+/* Estilos para el cuerpo de la página */
+body {
+    font-family: Arial, sans-serif; /* Fuente del texto */
+    background-color: #f0f0f0; /* Color de fondo */
+    padding: 20px; /* Espaciado interior */
+    text-align: center; /* Alineación del texto */
+}
+
+/* Estilos para encabezados de nivel 1 */
+h1 {
+    color: #333; /* Color del texto */
+    font-size: 24px; /* Tamaño de la fuente */
+    margin-bottom: 20px; /* Margen inferior */
+}
+
+/* Estilos para párrafos */
+p {
+    color: #666; /* Color del texto */
+    font-size: 18px; /* Tamaño de la fuente */
+    margin-bottom: 20px; /* Margen inferior */
+}
+
+/* Estilos para botones */
+button {
+    padding: 10px 20px; /* Espaciado interno */
+    font-size: 16px; /* Tamaño de la fuente */
+    background-color: #007bff; /* Color de fondo */
+    color: #fff; /* Color del texto */
+    border: none; /* Sin borde */
+    cursor: pointer; /* Cursor al pasar */
+    margin-top: 20px; /* Margen superior */
+}
+
+/* Estilos para botones al pasar el cursor */
+button:hover {
+    background-color: #0056b3; /* Cambio de color de fondo */
+}
+
+/* Estilos para contenedor de botones */
+.button-container {
+    margin-top: 40px; /* Margen superior */
+}
